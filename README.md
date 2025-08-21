@@ -104,9 +104,3 @@ The program will display:
 - All missions assigned to each robot
 - Robot general information including model and current mission count
 - Updated mission lists after deletions
-
-## Author
-
-University Mohammed Premier - Computer Science Department
-Course: POO - C++
-Instructor: Pr. Naoufal EL ALLALI
